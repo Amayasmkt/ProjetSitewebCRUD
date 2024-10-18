@@ -37,11 +37,11 @@ Pour chaque enregistrement de la table sélectionnée, trois actions sont dispon
 - Les clés étrangères ne sont pas directement affichées dans les tables.
 - Lors de la consultation d'un enregistrement, les informations associées (via clés étrangères) sont récupérées et affichées dans des sections appropriées.
 
-### Exemple d'implémentation - Table "Collectivité"
+### Exemple d'implémentation - Table "Villes"
 
-- **Consulter** : Affiche les détails d'une collectivité et les informations liées provenant d'autres tables.
+- **Consulter** : Affiche les détails d'une ville et les informations liées provenant d'autres tables.
 - **Modifier** : Affiche un formulaire permettant de modifier les informations, avec les champs pré-remplis.
-- **Supprimer** : Supprime la collectivité sélectionnée de la base de données.
+- **Supprimer** : Supprime la ville sélectionnée de la base de données.
 
 ## Installation et Utilisation
 
