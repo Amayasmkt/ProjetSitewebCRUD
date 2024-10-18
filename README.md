@@ -83,9 +83,9 @@ Pour chaque enregistrement de la table sélectionnée, trois actions sont dispon
 ```
 
 ## Technologies Utilisées
-- PHP : Pour la gestion de la logique serveur et des interactions CRUD.
-- SQL : Pour la gestion des bases de données.
-- HTML/CSS : Pour la mise en forme et la structure des pages.
+- **PHP** : Pour la gestion de la logique serveur et des interactions CRUD.
+- **SQL** : Pour la gestion des bases de données.
+- **HTML/CSS** : Pour la mise en forme et la structure des pages.
 
 ## Contributeurs
 Amayas Mokhtari
