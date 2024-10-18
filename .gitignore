@@ -1,0 +1,19 @@
+# Ignorer les fichiers de configuration sensibles
+/config/cnx.php
+/config/monEnv.php
+
+# Ignorer les fichiers de cache
+/cache/
+*.log
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.swp
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers générés par l'IDE
+/.vscode/
+.idea/
